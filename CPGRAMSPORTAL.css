@@ -1,0 +1,16 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.container1{
+    width: 100vw;
+    height: 50vh;
+    display: grid;
+    align-content: end;
+    justify-content: right;
+    
+}
+.heading{
+    text-align: center;
+}
+   
